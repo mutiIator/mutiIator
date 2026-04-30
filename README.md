@@ -8,9 +8,8 @@
 <div style="text-align: center;">
 
     
-<div align="center">
-<kbd>pls sign my ata it's so depressing</kbd>
-
+<p><div align="center">
+<kbd>pls sign my ata it's so depressing</kbd> </p>
 
 [straw](https://fraudprodigy.straw.page/)&nbsp;&nbsp;. &nbsp;&nbsp;[atab](https://fraudprodigy.atabook.org/)
 
