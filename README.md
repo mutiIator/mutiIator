@@ -9,6 +9,3 @@
 [straw](https://fraudprodigy.straw.page/)&nbsp;&nbsp;. &nbsp;&nbsp;[atab](https://fraudprodigy.atabook.org/)
 
 </div>
-<div style="text-align: center;">
-<div align="center">
-<kbd>pls sign my depressing ata</kbd> </div> </p>
