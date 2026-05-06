@@ -3,7 +3,7 @@
 <b>“ Ready Or Not !<em>!</em> ”</b>
 </div>
  <div align="center">
- <img src="https://cdn.discordapp.com/attachments/1485167395168587836/1499390964144406628/Untitled452_20260430204329.png?ex=69f4a027&is=69f34ea7&hm=a804495a32c708133188b5b5c0c8b4293bfe10160af96714f1ea76bd46ff9070&" width="120"/>
+ <img src="https://www.image2url.com/r2/default/images/1778064207014-48183b6a-857c-47b8-88b1-450497b248ec.png" width="120"/>
 
 
 [straw](https://fraudprodigy.straw.page/)&nbsp;&nbsp;. &nbsp;&nbsp;[atab](https://fraudprodigy.atabook.org/)
