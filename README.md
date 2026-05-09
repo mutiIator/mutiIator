@@ -1,4 +1,7 @@
+<div align="center">
 
+ ![](https://komarev.com/ghpvc/?username=mutiIator&style=flat-square&color=421c23&label=hi!)
+ </div>
 <div align="center">
 <b>“ Counting The Stars Like You And I. ”</b>
 </p>
@@ -8,5 +11,5 @@
 
 
 [straw](https://fraudprodigy.straw.page/)&nbsp;&nbsp;. &nbsp;&nbsp;[atab](https://fraudprodigy.atabook.org/)
-<h6><em>thanks for the silly postman drawing, @inconspiracy !</em></h6>
+<h6><em>thanks for the art, @inconspiracy !</em></h6>
 </div>
