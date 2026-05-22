@@ -11,5 +11,4 @@
 
 
 [straw](https://fraudprodigy.straw.page/)&nbsp;&nbsp;. &nbsp;&nbsp;[atab](https://fraudprodigy.atabook.org/)
-<h6><em>thanks for the art, @inconspiracy !</em></h6>
 </div>
