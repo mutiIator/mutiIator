@@ -1,7 +1,4 @@
-<div align="center">
-<details>HII @infugue HII @heartgoIden HII @inconspiracy HII @gota-human-heart<summary>ᥫ᭡</summary></details>
- 
-</div>
+
 
 <div align="center">
  
@@ -16,4 +13,8 @@
 
 
 [straw](https://fraudprodigy.straw.page/)&nbsp;&nbsp;. &nbsp;&nbsp;[atab](https://fraudprodigy.atabook.org/)
+</div>
+<div align="center">
+<details>HII @infugue HII @heartgoIden HII @inconspiracy HII @gota-human-heart<summary>‎ ᥫ᭡</summary></details>
+ 
 </div>
