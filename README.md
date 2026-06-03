@@ -15,7 +15,6 @@
 [straw](https://fraudprodigy.straw.page/)&nbsp;&nbsp;. &nbsp;&nbsp;[atab](https://neurozones.atabook.org/)
 </div>
 <div align="center">
-<details>⚠️not in order⚠️
-@infugue @heartgoIden @inconspiracy @zoenaaaa @jaymiigee @gota-human-heart<summary>‎ honorable mentions</summary></details>
+<details>⚠️not in order⚠️ > @infugue @heartgoIden @inconspiracy @zoenaaaa @jaymiigee @gota-human-heart<summary>‎ honorable mentions</summary></details>
  
 </div>
