@@ -1,20 +1,18 @@
-
-
 <div align="center">
  
- ![](https://komarev.com/ghpvc/?username=mutiIator&style=plastic&color=421c23&label=hi!)
+ ![](https://komarev.com/ghpvc/?username=mutiIator&style=plastic&color=270F08&label=^q^)
  </div>
+ <p style="margin-bottom: 50px;">
 <div align="center">
-<b>“ Counting The Stars Like You And I. ”</b>
+<img src="https://www.image2url.com/r2/default/images/1780550995848-7d96763f-6fac-48c0-a76e-9d100ea8788b.png" />
 </p>
+“ can we make something beautiful with no hope? ”
 </div>
+
+<img src="https://www.image2url.com/r2/default/images/1780550261042-71ede9c7-f266-498d-8175-8328dff2e0d8.png" width="135" align="middle" style="margin-right: 15px;"> &nbsp;&nbsp;&nbsp;&nbsp;[新book](https://neurozones.atabook.org/)&nbsp;&nbsp;.&nbsp;&nbsp;[straw](https://fraudprodigy.straw.page/)
+<p style="margin-bottom: 50px;">
+
  <div align="center">
  <img src="https://www.image2url.com/r2/default/images/1779461407235-2bc3cd96-3f14-45e0-b793-e42a331b8d22.gif" width="500"/>
 
 
-[straw](https://fraudprodigy.straw.page/)&nbsp;&nbsp;. &nbsp;&nbsp;[atab](https://neurozones.atabook.org/)
-</div>
-<div align="center">
-<details>⚠️not in order⚠️ > @infugue @heartgoIden @inconspiracy @zoenaaaa @jaymiigee @gota-human-heart<summary>‎ honorable mentions</summary></details>
- 
-</div>
