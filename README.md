@@ -8,3 +8,14 @@
 [新book](https://neurozones.atabook.org/)  .  [straw](https://fraudprodigy.straw.page/)
 
 </div>
+
+<div align="center">
+<img width="576" height="180" alt="1000035823" src="https://github.com/user-attachments/assets/8d44a842-e298-43f9-b488-8e59467b16b5" />
+
+<div>
+  <details>
+<summary></summary>
+  <a href="https://github.com/travisrapidd">@travisrapidd</a>
+    <a href="https://github.com/WoundedRibbons">@WoundedRibbons</a>
+    <a href="https://github.com/Augustine-Orlov">@Augustine-Orlove</a>
+  </details>
