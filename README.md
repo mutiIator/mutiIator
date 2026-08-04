@@ -1,3 +1,8 @@
+<div align="center">
+ 
+ ![](https://komarev.com/ghpvc/?username=mutiIator&style=plastic&color=FFB472&label=deliveries)
+ </div>
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=B43335&center=true&width=435&lines=You+Make+Me+Sick.;Because+I+Adore+You+So.)](https://git.io/typing-svg)
 <div align="center">
 <img width="576" height="324" alt="1000035822" src="https://github.com/user-attachments/assets/d8a9feaf-ec86-46de-8f8c-3974fe6b98b9" />
