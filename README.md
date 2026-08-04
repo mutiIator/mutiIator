@@ -19,4 +19,5 @@
     <a href="https://github.com/WoundedRibbons">@WoundedRibbons</a>
     <a href="https://github.com/Augustine-Orlov">@Augustine-Orlove</a>
     <a href="https://github.com/loves-failure">@loves-failure</a>
+    <a href="https://github.com/TheHacker7n7">@TheHacker7n7</a>
   </details>
