@@ -37,4 +37,6 @@
   <img width="576" height="255" alt="1000035821" src="https://github.com/user-attachments/assets/cfd78296-5d20-4eca-8f20-ff6667e038d4" />
   </div>
 
-<small> ty @WoundedRibbons for the graphics!>_< </small>
+
+
+ty @WoundedRibbons for the graphics! >_< 
