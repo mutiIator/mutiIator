@@ -29,10 +29,10 @@
     <a href="https://github.com/sir-chloe">@sir-chloe</a>
     <a href="https://github.com/F1ow3rp4lett3">@F1ow3rp4lett3</a>
     <a href="https://github.com/EllieEvan">@EllieEvan</a>
-    <a href="https://github.com/sorrowdms13">@sorrowdms13</a>
+    <a
+href="https://github.com/sorrowdms13">@sorrowdms13</a>
     <a href="https://github.com/scytheful">@scytheful</a>
-  </details>
-<a
+  </details> <a
 href="https://github.com/zooweemamaabuzo">@zooweemamaabuzo</a>
 
   <div align="center">
