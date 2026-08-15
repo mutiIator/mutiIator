@@ -32,6 +32,8 @@
     <a href="https://github.com/sorrowdms13">@sorrowdms13</a>
     <a href="https://github.com/scytheful">@scytheful</a>
   </details>
+<a
+href="https://github.com/zooweemamaabuzo">@zooweemamaabuzo</a>
 
   <div align="center">
   <img width="576" height="255" alt="1000035821" src="https://github.com/user-attachments/assets/cfd78296-5d20-4eca-8f20-ff6667e038d4" />
