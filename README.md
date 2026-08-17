@@ -32,8 +32,6 @@
     <a
 href="https://github.com/sorrowdms13">@sorrowdms13</a>
     <a href="https://github.com/scytheful">@scytheful</a>
-<a
-href="https://github.com/zooweemamaabuzo">@zooweemamaabuzo</a>
 
   </details>
   <div align="center">
