@@ -20,7 +20,7 @@
 
 <div>
   <details>
-<summary></summary>
+<summary>friends!!</summary>
   <a href="https://github.com/travisrapidd">@travisrapidd</a>
     <a href="https://github.com/WoundedRibbons">@WoundedRibbons</a>
     <a href="https://github.com/Augustine-Orlov">@Augustine-Orlove</a>
