@@ -25,10 +25,8 @@
     <a href="https://github.com/WoundedRibbons">@WoundedRibbons</a>
     <a href="https://github.com/Augustine-Orlov">@Augustine-Orlove</a>
     <a href="https://github.com/loves-failure">@loves-failure</a>
-    <a href="https://github.com/TheHacker7n7">@TheHacker7n7</a>
     <a href="https://github.com/sir-chloe">@sir-chloe</a>
     <a href="https://github.com/F1ow3rp4lett3">@F1ow3rp4lett3</a>
-    <a href="https://github.com/EllieEvan">@EllieEvan</a>
     <a
 href="https://github.com/sorrowdms13">@sorrowdms13</a>
     <a href="https://github.com/scytheful">@scytheful</a>
