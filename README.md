@@ -11,7 +11,7 @@
 
 <div align="center"> 
 
-[新book](https://neurozones.atabook.org/)  .  [straw](https://fraudprodigy.straw.page/)  .  [shared](https://rentry.co/rustravs)
+[新book](https://neurozones.atabook.org)  .  [shared](https://rentry.co/rustravs)
 
 </div>
 
